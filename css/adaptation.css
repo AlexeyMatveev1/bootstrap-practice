@@ -1,0 +1,11 @@
+@media (max-width: 1000px) {
+    .headername {
+        font-size: 40px;
+    }
+    .arrows {
+        margin: 20px auto;
+        transform: translateY(0px);
+        display: flex;
+        justify-content: center;
+    }
+}
